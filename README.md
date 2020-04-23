@@ -10,8 +10,8 @@ Cross-Platfrom Quiz app made with flutter
       - open project and run the app in emulator
       
    b) VScode -
-        - install flutter extension
-        - Run flutter doctor (for checkup)
-        - setup yor emulator
+      - install flutter extension
+      - Run flutter doctor (for checkup)
+      - setup your emulator
         
  3) Attempt the Quiz !
