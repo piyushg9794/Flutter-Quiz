@@ -15,3 +15,7 @@ Cross-Platfrom Quiz app made with flutter
       - setup your emulator
         
  3) Attempt the Quiz !
+
+![](https://github.com/piyushg9794/Flutter-Quiz/blob/master/1.png)
+![](https://github.com/piyushg9794/Flutter-Quiz/blob/master/3.png)
+![](https://github.com/piyushg9794/Flutter-Quiz/blob/master/4.png)
